@@ -132,4 +132,3 @@ async function playRaceEngine(character1, character2) {
 
     await playRaceEngine(Player1, Player2);
 })();
-
